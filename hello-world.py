@@ -1,1 +1,3 @@
-print('Hello Worakdjnöjsncäakld!!!!!!!!')
+print('erdem')
+
+print('cihanem')

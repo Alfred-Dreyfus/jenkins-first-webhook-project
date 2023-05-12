@@ -1,3 +1,4 @@
 print('erdem')
 
-print('cihanem')
+print('cihan')
+print('hakki')
